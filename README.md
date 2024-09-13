@@ -109,6 +109,8 @@ Instagram @Emmanuel.9944
 Twitter: @Emzzy241 and Profile Name: Dynasty
 Github Username: Emzzy241
 
+Project was inspired by SVREECO; Check out h
+
 Project Link: [https://github.com/Emzzy241/Music-Player](https://github.com/Emzzy241/Music-Player)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
