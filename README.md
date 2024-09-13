@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License](https://img.shields.io/github/license/Emzzy241/Music-Player?style=for-the-badge)](https://github.com/Emzzy241/Music-Player/blob/main/MIT-LICENSE.txt)
+[![MIT License](https://img.shields.io/github/license/Emzzy241/Music-Player?style=for-the-badge)](https://github.com/Emzzy241/Glade/blob/main/MIT-LICENSE.txt)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
@@ -72,7 +72,7 @@ To run the Music Player locally, follow these simple steps:
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/Emzzy241/Music-Player.git
+git clone https://github.com/Emzzy241/Glade.git
 ```
 2. Navigate to the project directory:
 ```
@@ -109,20 +109,20 @@ Instagram @Emmanuel.9944
 Twitter: @Emzzy241 and Profile Name: Dynasty
 Github Username: Emzzy241
 
-Project was inspired by SVREECO; Check out h
+Project was inspired by SVREECO; Check out his Github Handle for Awesome projects
 
-Project Link: [https://github.com/Emzzy241/Music-Player](https://github.com/Emzzy241/Music-Player)
+Project Link: [https://github.com/Emzzy241/Glade](https://github.com/Emzzy241/Glade)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Emzzy241/Music-Player.svg?style=for-the-badge
-[contributors-url]: https://github.com/Emzzy241/Music-Player/graphs/contributors
+[contributors-url]: https://github.com/Emzzy241/Glade/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Emzzy241/Music-Player.svg?style=for-the-badge
-[forks-url]: https://github.com/Emzzy241/Music-Player/network/members
+[forks-url]: https://github.com/Emzzy241/Glade/network/members
 [stars-shield]: https://img.shields.io/github/stars/Emzzy241/Music-Player.svg?style=for-the-badge
-[stars-url]: https://github.com/Emzzy241/Music-Player/stargazers
+[stars-url]: https://github.com/Emzzy241/Glade/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Emzzy241/Music-Player.svg?style=for-the-badge
-[issues-url]: https://github.com/Emzzy241/Music-Player/issues
+[issues-url]: https://github.com/Emzzy241/Glade/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/TheRealSethV
 [product-screenshot]: images/screenshot.png
